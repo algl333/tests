@@ -1,0 +1,2 @@
+H:\ИСРПО\ЛАБ 2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+H:\ИСРПО\ЛАБ 2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
